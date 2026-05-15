@@ -5,6 +5,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "cheerio": "latest",
     "lucide-react": "latest",
     "next": "latest",
     "react": "latest",
